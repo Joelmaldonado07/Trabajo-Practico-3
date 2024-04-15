@@ -1,0 +1,18 @@
+h1{
+    color: #3CB371;
+}
+h2{
+    color: #98FB98;
+}
+h3{
+    color:#2E8B57;
+}
+body{
+    color: #F0FFF0;
+}
+h1,h2,h3,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: black;
+}
